@@ -1,0 +1,24 @@
+{
+    "leaders": [
+        {
+            "id": "jdgreear",
+            "name": "J. D. Greear",
+            "facebook_id": "pastorgreear"
+        },
+        {
+            "id": "timkeller",
+            "name": "Tim Keller",
+            "facebook_id": "TimKellerNYC"
+        },
+        {
+            "id": "joelolsteen",
+            "name": "Joel Olsteen",
+            "facebook_id": "JoelOsteen"
+        },
+        {
+            "id": "markdriscoll",
+            "name": "Mark Driscoll",
+            "facebook_id": "pastormark"
+        }
+    ]
+}
